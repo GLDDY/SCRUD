@@ -34,7 +34,7 @@
 - [Vue 3](https://vuejs.org/)（基于 Options API）
 - HTML / CSS / JavaScript
 - JSON 模拟本地数据
-- Vite 构建工具
+- Vue Cli 构建工具
 
 ---
 
