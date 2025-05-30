@@ -31,7 +31,7 @@
 
 ## 🛠 技术栈
 
-- [Vue 3](https://vuejs.org/)（基于 Composition API）
+- [Vue 3](https://vuejs.org/)（基于 Options API）
 - HTML / CSS / JavaScript
 - JSON 模拟本地数据
 - Vite 构建工具
