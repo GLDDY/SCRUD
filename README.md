@@ -38,6 +38,27 @@
 
 ---
 
+## 🖼️ 页面截图
+
+### 📋 学生信息展示界面
+![首页截图](./public/screenshots/screenshot-首页.png)
+
+### ➕ 添加学生界面
+![添加学生](./public/screenshots/screenshot-添加1.png)
+![添加学生](./public/screenshots/screenshot-添加2.png)
+
+### 📝 编辑状态界面
+![编辑学生](./public/screenshots/screenshot-编辑1.png)
+![编辑学生](./public/screenshots/screenshot-编辑2.png)
+
+### ❌ 删除功能演示
+![删除功能](./public/screenshots/screenshot-删除.png)
+
+### 🔍 搜索功能效果
+![搜索功能](./public/screenshots/screenshot-搜索.png)
+
+---
+
 ## 🚀 快速启动
 
 ```bash
