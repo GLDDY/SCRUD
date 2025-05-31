@@ -84,3 +84,10 @@ npm install
 
 # 启动项目
 npm run dev
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
